@@ -1,0 +1,36 @@
+		   MENU
+
+-------------------DRINK----------------------
+I. Milk Foam (signature)
+1. Milk Foam Green Tea...................$3.00
+2. Milk Foam Oolong Tea..................$3.00
+3. Milk Foam Winter Melon................$2.80
+
+II. Milk Tea Series
+1. Pearl Milk Tea........................$3.20
+2. Strawberry Milk Tea...................$3.00
+3. Black Milk Tae........................$3.00
+
+III. Coffee Series
+1. Coffee latte..........................$2.50
+2. Black Coffee..........................$1.90
+3. Milk Coffee...........................$2.75
+
+IV. Smoothie Series
+1. Milk Foam Taro........................$3.25
+2. Matcha Marble.........................$3.00
+3. Strawberry Marble.....................$3.50
+
+V. Brown Sugar Series
+1. Brown Sugar Fresh Milk................$3.15
+2. Brown Sugar Milk Tea..................$3.00
+3. Milk Foam Brown Sugar Oolong..........$3.50
+
+-------------------Topping---------------------
+1. Pearl.....................$0.50
+2. Coconut Jelly.............$0.70
+3. Milk Foam.................$0.60
+4. Kanten Jelly..............$0.50
+
+
+	
